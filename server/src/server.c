@@ -164,8 +164,8 @@ int main(){
    	        	file = fopen(LOGCHAR,"a");	//log to file - user logged in
    	        	dataclock = localtime(&myclock);
    	        	strftime(mytime,1000,"%Y-%m-%d %H:%M:%S", dataclock);
-   	        	fprintf(file,"\n%s Został zalogowany urzytkownik %s\n",mytime,user);
-   	        	printf("\n%s Został zalogowany urzytkownik %s\n",mytime,user);
+   	        	fprintf(file,"\n%s Został zalogowany użytkownik %s\n",mytime,user);
+   	        	printf("\n%s Został zalogowany użytkownik %s\n",mytime,user);
    	        	fclose(file);
 
 
