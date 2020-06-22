@@ -1,0 +1,85 @@
+Przerwana próba logowania
+Został zalogowany urzytkownik user1
+
+2020-06-22 02:03:00 Zakończono program
+2020-06-22 02:05:04 Zakończono program
+2020-06-22 02:05:52 Zakończono program
+2020-06-22 02:07:48 Zakończono program
+2020-06-22 02:08:29 Zakończono program
+2020-06-22 02:10:37 Zakończono program
+2020-06-22 02:11:25 Zakończono program
+2020-06-22 02:13:07 Zakończono program
+2020-06-22 02:15:40 Zakończono program
+2020-06-22 02:17:47 Zakończono program
+2020-06-22 02:20:56 Zakończono program
+2020-06-22 02:27:01 Zakończono program
+2020-06-22 02:27:13 Przerwana próba logowania
+2020-06-22 02:27:13 Zakończono program
+2020-06-22 02:27:19 Zakończono program
+2020-06-22 02:39:46 Zakończono program
+
+2020-06-22 02:40:11 Został zalogowany urzytkownik user1
+2020-06-22 02:40:40 Zakończono program
+
+2020-06-22 02:42:24 Został zalogowany urzytkownik user1
+2020-06-22 02:42:28 Zakończono program
+
+2020-06-22 02:43:18 Został zalogowany urzytkownik user1
+2020-06-22 02:46:29 Zakończono program
+
+2020-06-22 02:46:36 Został zalogowany urzytkownik user1
+2020-06-22 02:51:18 Zakończono program
+
+2020-06-22 02:51:25 Został zalogowany urzytkownik user1
+2020-06-22 02:54:45 Zakończono program
+
+2020-06-22 02:54:54 Został zalogowany urzytkownik user1
+2020-06-22 02:56:47 Zakończono program
+
+2020-06-22 02:56:57 Został zalogowany urzytkownik user1
+2020-06-22 03:02:21 Zakończono program
+2020-06-22 03:02:30 Przerwana próba logowania
+2020-06-22 03:02:30 Zakończono program
+2020-06-22 11:46:39 Zakończono program
+
+2020-06-22 11:46:47 Został zalogowany urzytkownik user1
+2020-06-22 11:48:08 Zakończono program
+
+2020-06-22 11:48:15 Został zalogowany urzytkownik user1
+2020-06-22 12:32:51 Zakończono program
+
+2020-06-22 12:32:59 Został zalogowany urzytkownik user1
+2020-06-22 12:34:28 Zakończono program
+
+2020-06-22 12:34:47 Został zalogowany urzytkownik user1
+2020-06-22 12:39:48 Zakończono program
+
+2020-06-22 12:40:03 Został zalogowany urzytkownik user1
+2020-06-22 12:43:30 Zakończono program
+
+2020-06-22 12:43:45 Został zalogowany urzytkownik user1
+2020-06-22 12:44:05 user1 wpłacił: 10 i posiada: 20
+2020-06-22 12:44:05 user1 wypłacił: 4 i posiada: 16
+2020-06-22 12:53:12 Zakończono program
+
+2020-06-22 12:53:31 Został zalogowany urzytkownik user1
+2020-06-22 12:53:51 user1 wpłacił: 10 i posiada: 26
+2020-06-22 12:53:51 user1 wypłacił: 1 i posiada: 25
+2020-06-22 12:53:51 Nastąpiło wylogowanie
+2020-06-22 12:54:07 Zakończono program
+2020-06-22 12:54:14 Zakończono program
+2020-06-22 12:55:53 Zakończono program
+
+2020-06-22 12:56:03 Został zalogowany urzytkownik user2
+4432080-09-20 07:49:04 Nastąpiło wylogowanie
+2020-06-22 12:57:03 Zakończono program
+2020-06-22 13:13:20 Zakończono program
+
+2020-06-22 13:13:52 Został zalogowany urzytkownik user1
+2020-06-22 13:14:24 user1 wpłacił: 3 i posiada: 28
+2020-06-22 13:14:24 Nastąpiło wylogowanie
+2020-06-22 13:14:31 Zakończono program
+2020-06-22 13:14:37 Zakończono program
+
+2020-06-22 13:14:44 Został zalogowany urzytkownik user1
+2020-06-22 13:13:20 user1 wypłacił: 2 i posiada: 26
